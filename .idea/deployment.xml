@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="PI_host (5a6f981d-5de8-49bd-9605-4d6f965b90c1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/test_cross_compile" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug_remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote_cmake" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote_cmake" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug_remote" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="other_remite_control (5f4b8893-133e-4cd7-acca-3047377f2316)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/prj/deployment" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug_remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote_cmake" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote_cmake" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug_remote" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

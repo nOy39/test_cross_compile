@@ -1,0 +1,4 @@
+# Project exclude paths
+/cmake-build-debug-mingw/
+/cmake-build-debug-remote_cmake/
+/cmake-build-debug_remote/

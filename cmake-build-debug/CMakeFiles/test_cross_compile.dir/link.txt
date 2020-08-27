@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test_cross_compile.dir/main.c.o  -o test_cross_compile 
